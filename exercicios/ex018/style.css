@@ -1,0 +1,19 @@
+@font-face {
+  font-family:'oik' ;
+  src: url('OldLondonAlternate.ttf') format(opentype);
+  font-weight: normal;
+  font-style: normal;
+  
+
+
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: 'oik', Times, serif;
+  font-size: 3em;
+  font-weight: normal;
+}

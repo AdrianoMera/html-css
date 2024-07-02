@@ -1,0 +1,17 @@
+body {
+  font-family:"helvetica";
+  font-size: 1em ;
+  font-weight: normal;
+  /* lighter, normal, bold, bolder font-style: italic;
+  text-decoration: underline;*/
+  
+
+}
+/* weight é igual a peso */
+h1 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 3em;
+  font-style: italic;
+
+}
